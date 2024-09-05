@@ -4,5 +4,7 @@
 
 you can find docker compose file. and apply for nginx proxy manager.
 
+```
 default username: admin@example.com
 default password: changeme
+```
