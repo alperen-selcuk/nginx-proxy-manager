@@ -4,6 +4,8 @@
 
 you can find docker compose file. and apply for nginx proxy manager.
 
+you can access admin 8080 port. 
+
 ```
 default username: admin@example.com
 default password: changeme
